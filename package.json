@@ -1,0 +1,14 @@
+{
+  "name": "memory-leak-testing",
+  "version": "1.0.0",
+  "description": "Memory Leak debugging project example in Node.js",
+  "main": "leak.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "v8-profiler": "^5.7.0"
+  }
+}
